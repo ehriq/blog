@@ -1,0 +1,6 @@
+[submodule "hugo-nuo"]
+	path = hugo-nuo
+	url = https://github.com/laozhu/hugo-nuo
+[submodule "themes/hugo-nuo"]
+	path = themes/hugo-nuo
+	url = https://github.com/laozhu/hugo-nuo
