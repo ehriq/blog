@@ -1,5 +1,6 @@
 dev:
-	hugo serve -wD -d dev/
+	rm -fr dev/
+	hugo serve -wDF -d dev/
 
 prod:
 	hugo 
